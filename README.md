@@ -1,2 +1,2 @@
 # Mini_Project_15
-A droid Summer School Mini Project.
+Converting 100 images to Grey Scale (b/w)" using OpenCV.
